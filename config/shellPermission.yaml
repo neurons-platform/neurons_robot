@@ -1,0 +1,3 @@
+ShellPermissionList:
+    - shellName: '= shell timezone 7'
+      userList: ['jingminglang','dingyong21','bjluqiang']
